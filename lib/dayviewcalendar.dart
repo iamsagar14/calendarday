@@ -114,7 +114,7 @@ class _DayCalendarState extends State<DayCalendar> {
           startDuration: const Duration(hours: 0),
           hourIndicatorSettings: const HourIndicatorSettings(
             height: 1, // Customize the height of the hour indicator
-            color: Color(0xFFF5F5F5), dashWidth: 200,
+            color: Color(0xFFF5F5F5), dashWidth: 200, 
             lineStyle: LineStyle.solid,
             // Customize the interval between hour indicators
           ),
